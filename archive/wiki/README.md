@@ -2,7 +2,7 @@
 
 There isnt much to this install, it's just a copy of the official docker compose installation file.  
 Here is the [Official Install Guide](https://docs.requarks.io/install) and 
-a shortcut to the [docker-compose guide](https://docs.requarks.io/install/docker#using-docker-compose).
+a shortcut to the [docker-compose section](https://docs.requarks.io/install/docker#using-docker-compose).
 
 1. Create a folder called wiki
 2. Create `docker-compose.yaml` and copy my file.
